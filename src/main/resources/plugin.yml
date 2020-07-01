@@ -1,0 +1,4 @@
+name: ScalaPlugin
+version: "0.1-SNAPSHOT"
+main: com.github.patrick.scala.ScalaPlugin
+api-version: "1.13"
