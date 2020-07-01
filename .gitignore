@@ -15,7 +15,6 @@
 #
 # Contact me on <mailpatrickkr@gmail.com>
 
-.idea/
-project/project/
-project/target/
-target/
+/.idea/
+/project/project/
+/target/

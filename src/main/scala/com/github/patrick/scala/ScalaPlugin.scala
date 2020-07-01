@@ -23,6 +23,6 @@ import org.bukkit.plugin.java.JavaPlugin
 
 class ScalaPlugin extends JavaPlugin {
   override def onEnable(): Unit = {
-    getLogger.info("Scala library loaded")
+    getLogger.info("Scala library 2.13.3 loaded")
   }
 }
