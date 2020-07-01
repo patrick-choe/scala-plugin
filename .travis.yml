@@ -18,4 +18,4 @@
 language: scala
 jdk: openjdk8
 script:
-  - sbt assemble
+  - sbt assembly
