@@ -20,8 +20,8 @@
 lazy val root = (project in file(".")).settings(
   name := "scala-plugin",
   organization := "com.github.patrick-mc",
-  version := "0.1-SNAPSHOT",
-  scalaVersion := "2.13.3"
+  scalaVersion := "2.13.3",
+  version := scalaVersion.value
 )
 
 resolvers += "PaperMC Repository" at "https://papermc.io/repo/repository/maven-public/"

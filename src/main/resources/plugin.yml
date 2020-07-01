@@ -16,6 +16,6 @@
 # Contact me on <mailpatrickkr@gmail.com>
 
 name: ScalaPlugin
-version: "0.1-SNAPSHOT"
+version: "2.13.3"
 main: com.github.patrick.scala.ScalaPlugin
 api-version: "1.13"
